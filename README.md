@@ -1,2 +1,2 @@
 # cheesereco
-A cheese identifier application (designed for french cheeses)
+A cheese identifier application (designed for french cheeses) 🧀
